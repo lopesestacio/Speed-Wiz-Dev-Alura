@@ -2,10 +2,10 @@
 
 Destinado ao programa de aceleração Speed Wiz Dev em parceria com a Alura.
 
-O programa de aceleração busca formar desenvolvedores, utilizando a linguagem C#. O programa é uma bolsa de estudos concedida pela Wiz, e ministrada pela Alura.
+O programa de aceleração busca formar desenvolvedores, utilizando a linguagem C#, concedida pela Wiz e ministrada pela Alura.
 
 <p align="left">
-  <img src="https://github.com/lopesestacio/Desenvolvedor-Back-End-Senai/blob/master/images/imagelogo.jpg" width="60%",  title="imagelogo">
+  <img src="https://github.com/lopesestacio/Speed-Wiz-Dev-Alura/blob/main/images/Speed%20Wiz%20Dev.png" width="70%",  title="imagelogo">
 </p>
 
 ✨| Speed Wiz Dev | Status
