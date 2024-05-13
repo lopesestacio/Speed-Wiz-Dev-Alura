@@ -19,3 +19,24 @@ O programa de aceleração busca formar desenvolvedores, utilizando a linguagem 
  &#9746; Estudando 👨‍💻 <br>
  &#9744; Aguardando 👍<br>
  
+## 🤝 Contributions
+<table>
+  <tr>
+    <td align="center">
+      <a href="">
+        <img src="https://github.com/lopesestacio/Speed-Wiz-Dev-Alura/blob/main/images/WizCo.jpeg" width="100px;" alt="WizCo"/><br>
+        <sub> 
+           <b>Bolsa de estudos</b> 
+        </sub>
+      </a>
+    </td>
+     <td align="center">
+      <a href="">
+        <img src="https://github.com/lopesestacio/Speed-Wiz-Dev-Alura/blob/main/images/Alura.png" width="100px;" alt="Alura"/><br>
+        <sub> 
+           <b>Plataforma de Ensino</b> 
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
